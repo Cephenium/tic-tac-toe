@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=tictactoe
+comment1.params=
+comment1.target=tictactoe()
+comment2.params=
+comment2.target=int\ getinput()
+comment3.params=
+comment3.target=void\ updateboard()
+comment4.params=
+comment4.target=void\ displayboard()
+comment5.params=
+comment5.target=void\ resetgame()
+comment6.params=
+comment6.target=void\ startgame()
+comment7.params=
+comment7.target=boolean\ checkwin()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
